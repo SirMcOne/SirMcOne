@@ -162,7 +162,7 @@ class SoftwareEngineer:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF0080?style=for-the-badge&logoColor=white)](https://baiuai.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/wainer-noriega-chavez-93697025/)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wainer-noriega-chavez-93697025)
 [![Twitter](https://img.shields.io/badge/🐦_INSTAGRAM-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/waynoriega)
 [![Email](https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waynercito@gmail.com)
 
@@ -187,3 +187,4 @@ class SoftwareEngineer:
 
 
 </div>
+
